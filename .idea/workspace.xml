@@ -5,13 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3089d84e-2e26-4f65-92d2-e75d0262d996" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Controller/controller.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Model/basicmodel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/View/modelview.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -22,9 +32,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2czn3TbKGh6g7CqKteILXTliiB0" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -33,6 +43,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.controller.executor": "Run",
     "Python.main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -42,11 +53,19 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "terminal",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\PycharmProjects\Notes_console\Controller" />
+      <recent name="C:\Users\user\PycharmProjects\Notes_console\Model" />
+      <recent name="C:\Users\user\PycharmProjects\Notes_console" />
+    </key>
+  </component>
   <component name="RunManager">
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="controller" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Notes_console" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -60,7 +79,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\user\PycharmProjects\Notes_console\Controller\controller.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -85,7 +104,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1709123076871</updated>
-      <workItem from="1709123128292" duration="663000" />
+      <workItem from="1709123128292" duration="1058000" />
+      <workItem from="1709725884397" duration="5120000" />
     </task>
     <servers />
   </component>
@@ -93,6 +113,6 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Notes_console$main.coverage" NAME="main Coverage Results" MODIFIED="1709123143197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Notes_console$main.coverage" NAME="controller Coverage Results" MODIFIED="1709729584437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
